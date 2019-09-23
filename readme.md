@@ -4,7 +4,7 @@ GitHub Repository: https://github.com/JeffreyND/hw1.38.ndimele
 # For A C: #
 
 ### Image of Elevator: ###
-<img src="https://github.com/JeffreyND/JeffreyND.github.io/blob/master/hw1/img.JPG" width=400>
+<img src="https://github.com/JeffreyND/JeffreyND.github.io/blob/master/hw1/elevator.JPG" width=400>
 
 ### Gif of Elevator: ###
 ![Elevator Gif](https://github.com/JeffreyND/JeffreyND.github.io/blob/master/hw1/hw1.38.ndimele.gif)
@@ -16,7 +16,9 @@ There wasn't many issues with this elevator in regards to design. If anything, t
 should be aligned vertically to make it easier to understand the layout of the building floors.
 Additionaly it might be wiser to have a greater contrast between the elevator pane and the buttons to
 make it easier to locate and press each button.</p>
-</br>
+
+
+# For A B: #
 <h4> Common uses of elevator: </h4>
 <ul>
   <li> Navigate Up </li>
@@ -42,3 +44,6 @@ single 'aid' button to be used for help & emergencies.</p>
 
 #### Conceptual Sketch: ####
 <img src="https://github.com/JeffreyND/JeffreyND.github.io/blob/master/hw1/sketch.jpg" width=500>
+
+
+# For An A: #
