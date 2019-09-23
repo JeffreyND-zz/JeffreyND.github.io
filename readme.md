@@ -49,5 +49,6 @@ single 'aid' button to be used for help & emergencies.</p>
 
 
 <h1> For An A: <h1>
-
+<h3 align="center"> My simple touchscreen design: </h3>
+<img src="https://github.com/JeffreyND/JeffreyND.github.io/blob/master/hw1/img1.png" align="center" />
 </body>
