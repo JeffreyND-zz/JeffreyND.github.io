@@ -40,6 +40,5 @@ that I'm examining provides feedback to the user by lighting up a selected butto
 suggestions to improve the elevator design, I would align the floor buttons vertically and have a
 single 'aid' button to be used for help & emergencies.</p>
 
-</br>
 #### Conceptual Sketch: ####
 ![Elevator Sketch](https://github.com/JeffreyND/JeffreyND.github.io/blob/master/hw1/sketch.jpg)
