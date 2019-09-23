@@ -1,14 +1,15 @@
+<!DOCTYPE html>
 Read Me: https://github.com/JeffreyND/JeffreyND.github.io/blob/master/readme.md
 GitHub Repository: https://github.com/JeffreyND/hw1.38.ndimele
 
+<body>
+<h1> For A C: </h1>
 
-# For A C: #
-
-### Image of Elevator: ###
+<h3> Image of Elevator: </h3>
 <img src="https://github.com/JeffreyND/JeffreyND.github.io/blob/master/hw1/elevator.JPG" width=400 />
 
-### Gif of Elevator: ###
-![Elevator Gif](https://github.com/JeffreyND/JeffreyND.github.io/blob/master/hw1/hw1.38.ndimele.gif)
+<h3> Gif of Elevator: </h3>
+<img src="https://github.com/JeffreyND/JeffreyND.github.io/blob/master/hw1/hw1.38.ndimele.gif" />
 
 </br>
 <h3 align="center"> Elevator Description: </h3>
@@ -19,7 +20,7 @@ Additionaly it might be wiser to have a greater contrast between the elevator pa
 make it easier to locate and press each button.</p>
 
 
-# For A B: #
+<h1> For A B: </h1>
 <h4> Common uses of elevator: </h4>
 <ul>
   <li> Navigate Up </li>
@@ -43,8 +44,10 @@ that I'm examining provides feedback to the user by lighting up a selected butto
 suggestions to improve the elevator design, I would align the floor buttons vertically and have a
 single 'aid' button to be used for help & emergencies.</p>
 
-#### Conceptual Sketch: ####
+<h4> Conceptual Sketch: </h4>
 <img src="https://github.com/JeffreyND/JeffreyND.github.io/blob/master/hw1/sketch.jpg" width=400 />
 
 
-# For An A: #
+<h1> For An A: <h1>
+
+</body>
