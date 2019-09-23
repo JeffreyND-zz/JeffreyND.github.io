@@ -52,5 +52,17 @@ single 'aid' button to be used for help & emergencies.</p>
 <h1> For An A: <h1>
 <h3 align="center"> My simple touchscreen design: </h3>
 <img src="https://github.com/JeffreyND/JeffreyND.github.io/blob/master/hw1/img1.png" align="center" />
+<p align="center"> The design includes button layouts of the left-hand side of the screen and an information section on the right side of the screen. </p>
+  <h4 align="center"> The Buttons </h4>
+  <p align="center"> For my design, I decided to represent six floors. The buttons aligned vertically to represent the corresponding floor levels. A “help” button also exists if the user needs any assistance.
+For my design, I tried to minimize the number of buttons to reduce complexity and make it easier for the users to utilize the functionalities of the elevator. </p>
+  </br>
+  <h4 align="center"> Feedback </h4>
+  <p align="center"> When the user selects a button, the button is highlighted, and a sound is played. Doing so allows the user to receive feedback from their action and make it easier to understand which floors the elevator will eventually navigate to. Additionally, the right side of the screen serves as an informational section and displays the current floor of the elevator, the action the elevator is performing, and a simple graphic to represent the current action of the elevator. </p>
+  </br>
+  <h4 align="center"> Here is an example of some elevator buttons selected: </h4>
+  <img src="https://github.com/JeffreyND/JeffreyND.github.io/blob/master/hw1/img2.png" align="center" />
+  <h4 align="center"> Here is an example of the informational pane as the elevator attempts to move from floor 5 to floor 6: </h4>
+  <img src="https://github.com/JeffreyND/JeffreyND.github.io/blob/master/hw1/img3.png" align="center" />
 </body>
 </html>
