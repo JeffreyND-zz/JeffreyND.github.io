@@ -2,6 +2,7 @@
 Read Me: https://github.com/JeffreyND/JeffreyND.github.io/blob/master/readme.md
 GitHub Repository: https://github.com/JeffreyND/hw1.38.ndimele
 
+<html>
 <body>
 <h1> For A C: </h1>
 
@@ -52,3 +53,4 @@ single 'aid' button to be used for help & emergencies.</p>
 <h3 align="center"> My simple touchscreen design: </h3>
 <img src="https://github.com/JeffreyND/JeffreyND.github.io/blob/master/hw1/img1.png" align="center" />
 </body>
+</html>
