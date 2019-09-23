@@ -41,5 +41,5 @@ suggestions to improve the elevator design, I would align the floor buttons vert
 single 'aid' button to be used for help & emergencies.</p>
 
 </br>
-<h4> Conceptual Sketch: </h4>
+#### Conceptual Sketch: ####
 ![Elevator Sketch](https://github.com/JeffreyND/JeffreyND.github.io/blob/master/hw1/sketch.jpg)
