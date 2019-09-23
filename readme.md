@@ -2,5 +2,4 @@ Presentation Page: https://JeffreyND.github.io/hw1/index.html
 GitHub Repository: https://github.com/JeffreyND/hw1.38.ndimele
 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://www.dropbox.com/s/a36b3fe8lvbpzmd/hw1.38.ndimele.gif?dl=0)
+![alt text](https://www.dropbox.com/s/a36b3fe8lvbpzmd/hw1.38.ndimele.gif?dl=1)
