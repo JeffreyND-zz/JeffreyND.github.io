@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 Read Me: https://github.com/JeffreyND/JeffreyND.github.io/blob/master/readme.md
 GitHub Repository: https://github.com/JeffreyND/hw1.38.ndimele
 
