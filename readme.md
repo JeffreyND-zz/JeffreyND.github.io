@@ -1,16 +1,13 @@
-#P2.16
-
+# P2.16
 
 ## 2D Game : Fingerless Raider
-In this project, we are going to design a simple 2D platform game where the player uses their voice to guide and control their character.
+For our project, we aimed to design a simple 2D platformer game in which the in-game character is controlled by the user's voice. The goal is to have the user issue commands, and the in-game character to abide them.
 
-## Future Plan
-### Developer environment: Unity
-Unity is a cross-platform game engine developed by Unity Technologies
-
+## Demo Link
+Here is a link to our demo: ...
 
 ### Duty
-- Jeffrey Ndimele: UI layout, character movement(Voice control) 
+- Jeffrey Ndimele: UI layout, character movement (Voice control) 
 - Jiayu Yan: Trap feature, character interaction, character design
 - Jonathan Andrew Turner: Chest reward, character interaction, music/art 
 - Jose Luis Garcia: Enemey fight, 2d platformer level design 
