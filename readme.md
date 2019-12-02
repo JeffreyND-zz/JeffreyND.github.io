@@ -1,4 +1,4 @@
-[Github page](https://dyaniel96.github.io/P2.16/)<br/>
+#P2.16
 
 
 ## 2D Game : Fingerless Raider
