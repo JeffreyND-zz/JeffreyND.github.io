@@ -17,4 +17,3 @@ Here is a link to our demo: ...
 ![Menu](https://user-images.githubusercontent.com/15820167/69390111-cdc22500-0c93-11ea-83c5-8f8e8e6c70d4.jpg)
 ![Gameplay](https://user-images.githubusercontent.com/15820167/69390133-dca8d780-0c93-11ea-9657-132f5ab7b5ac.jpg)
 ![Fight](https://user-images.githubusercontent.com/15820167/69390141-e5011280-0c93-11ea-9c0d-9ea8786cf4d1.jpg)
-here this is the readme stuff if you copy and paste it into a new one it will be the same
