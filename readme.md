@@ -4,7 +4,7 @@
 For our project, we aimed to design a simple 2D platformer game in which the in-game character is controlled by the user's voice. The goal is to have the user issue commands, and the in-game character to abide them.
 
 ## Demo Link
-Here is a link to our demo: ...
+Here is a link to our demo: https://github.com/JeffreyND/P2.16
 
 ### Duty
 - Jeffrey Ndimele: UI layout, character movement (Voice control) 
